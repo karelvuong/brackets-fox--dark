@@ -1,27 +1,27 @@
 {
-    "title": "Ruby Blue",
-    "name": "ruby-blue",
-    "description": "Ruby Blue is a dark, high contrast theme, that is easy to read.",
-    "version": "1.3.0",
-    "author": "Eric Johnson <wormeyman@gmail.com>",
-    "homepage": "https://github.com/Brackets-Themes/RubyBlue",
+    "title": "Fox - Dark",
+    "name": "fox-brackets--dark",
+    "description": "A UI + Syntax theme for Brackets based on Mozilla's Firefox Developer Edition.",
+    "version": "1.0.0",
+    "author": "Karel Vuong <vuongkarel@gmail.com>",
+    "homepage": "https://github.com/karelvuong/fox-brackets--dark",
     "keywords": [
         "extension",
         "brackets",
-        "ruby",
+        "firefox",
         "blue",
         "dark",
         "theme"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Brackets-Themes/RubyBlue.git"
+        "url": "https://github.com/karelvuong/fox-brackets--dark.git"
     },
     "engines": {
         "brackets": ">=1.0.0"
     },
     "theme": {
-        "file": "RubyBlueTheme.less",
+        "file": "fox.dark.less",
         "dark": true
     },
     "screenshot": "ss/rb-js.PNG"
