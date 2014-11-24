@@ -1,6 +1,6 @@
 # Fox (Brackets)
 
-A syntax theme for Brackets. Based on Mozilla's Firefox Developer Edition and [@kkga](https://github.com/kkga)'s [Spacegray](https://github.com/kkga/spacegray).
+A syntax theme for Brackets. Based on Mozilla's Firefox Developer Edition and [`@kkga`](https://github.com/kkga)'s [`Spacegray`](https://github.com/kkga/spacegray).
 
 ***
 
@@ -26,7 +26,7 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 ### Thanks
 
-- Layout, structure, and base icons by [@kkga](https://github.com/kkga/)'s [Spacegray](https://github.com/kkga/spacegray)
+- Layout, structure, and base icons by [`@kkga`](https://github.com/kkga/)'s [`Spacegray`](https://github.com/kkga/spacegray)
 
 ***
 
@@ -34,7 +34,7 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 1. Things look "weird"
     1. Try hitting F5 (Save changes before doing so!).
-2. [Open an issue](https://github.com/karelvuong/fox-brackets/issues) if you need assistance.
+2. [`Open an issue`](https://github.com/karelvuong/fox-brackets/issues) if you need assistance.
 
 
 ### Contributing
