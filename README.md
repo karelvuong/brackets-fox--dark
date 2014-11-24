@@ -20,7 +20,7 @@ Default flavor based on Firefox Developer Edition - Dark.
 
 ### How to Install
 
-Visit http://brackets-themes.github.io/ to see the latest install instructions.
+Visit `http://brackets-themes.github.io/` to see the latest install instructions.
 
 ***
 
