@@ -18,12 +18,6 @@ Default flavor based on Firefox Developer Edition - Dark.
 
 ***
 
-### How to Install
-
-Visit [`http://brackets-themes.github.io/`](http://brackets-themes.github.io/) to see the latest install instructions.
-
-***
-
 ### Thanks
 
 - Layout, structure, and base icons by [@kkga](https://github.com/kkga/)'s [Spacegray](https://github.com/kkga/spacegray)
